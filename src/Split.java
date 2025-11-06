@@ -4,7 +4,7 @@ public class Split {
         String a[] = str.split(" ");
 
         for (String str1 : a) {
-            System.out.printf(str1);
+            System.out.println(str1);
         }
     }
 }
