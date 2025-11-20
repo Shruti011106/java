@@ -38,4 +38,5 @@ class hello{
         s2.area();
 
     }
+
 }
